@@ -7,5 +7,5 @@ h1 {
 
 .main{
   width: 100%;
-  background-image: url("assets/images/mainbg.webp");
+  background-image: URL("../images/mainbg.webp");
 }
