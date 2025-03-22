@@ -6,6 +6,7 @@ h1 {
 }
 
 body {
+  font-family: 'Times New Roman';
   width: 100%;
   background-image: URL("../images/mainbg.webp");
 }
